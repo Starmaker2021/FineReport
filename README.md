@@ -43,19 +43,57 @@
 
 [![T96j3V.png](https://s4.ax1x.com/2021/12/16/T96j3V.png)](https://imgtu.com/i/T96j3V)
 
+## 单元格设置
+
+### 数据显示方式
+
+#### 列表
+
+列表显示与原数据表显示相同
+
+[![TicmwD.png](https://s4.ax1x.com/2021/12/17/TicmwD.png)](https://imgtu.com/i/TicmwD)
+
+#### 分组
+
+相同项合并
+
+[![TicakQ.png](https://s4.ax1x.com/2021/12/17/TicakQ.png)](https://imgtu.com/i/TicakQ)
+
+#### 汇总
+
+数据根据父格汇总
+
+[![ ](https://s4.ax1x.com/2021/12/17/Ticfh9.png)](https://imgtu.com/i/Ticfh9)
 
 
-操作记录
+
+### 实际值与显示值
+
+设置数据字典
+
+[![TiWuut.png](https://s4.ax1x.com/2021/12/17/TiWuut.png)](https://imgtu.com/i/TiWuut)
+
+
+
+
+
+
+
+## 操作记录
 
 设置表头：选中单元格，右边面板，单元格属性，样式，预定义样式
 
 设置单元格数据格式：选中单元格，右边面板单元格属性，样式
 
+添加预警：选中单元格，新建条件属性，颜色，属性条件
 
+添加间隔色：偶数行添加背景色：选中单元格，条件属性，背景色，公式，row（）%2==0
 
+筛选过滤：方法一：在数据库查询时筛选
 
+​                   方法二：数据列中筛选
 
-
+​                   方法三：参数筛选
 
 
 
